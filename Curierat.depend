@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1587201150 source:d:\miscs\curierat\main.cpp
+	<iostream>
+	"vehicul.h"
+	"curier.h"
+	<fstream>
+	<vector>
+
+1587201426 d:\miscs\curierat\vehicul.h
+	<iostream>
+
+1587198415 d:\miscs\curierat\curier.h
+	<iostream>
+	<math.h>
+	<cmath>
+
+1587817725 source:d:\cb_probleme-teme\curierat\main.cpp
+	<iostream>
+	"angajat.h"
+	<fstream>
+	<vector>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<cmath>
+
+1587816868 d:\cb_probleme-teme\curierat\vehicul.h
+	<iostream>
+	<math.h>
+	<cmath>
+
+1587651050 d:\cb_probleme-teme\curierat\curier.h
+	<iostream>
+	<math.h>
+	<cmath>
+
+1587379573 d:\cb_probleme-teme\curierat\angajat.h
+	<iostream>
+
